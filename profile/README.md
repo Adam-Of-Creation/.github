@@ -139,8 +139,8 @@ All agents can be created through natural conversation and require no coding, wh
 - Access to all agent templates and capabilities
 - Priority support and feature testing
 
-→ [Join Telegram Community](link)
-→ [Get $ADAM Tokens](link)
+→ [Join Telegram Community]([link](https://adamofcreation.com))
+→ [Get $ADAM Tokens](https://adamofcreation.com)
 
 ## Coming Soon: Web App
 
@@ -151,7 +151,6 @@ The full ADAM platform will be available to everyone through our web interface:
 - Monitor and manage your agents
 - Community features and sharing
 
-→ [Join Waitlist](link)
 
 ## How It Works
 
@@ -176,12 +175,6 @@ ADAM leverages three powerful frameworks:
 - **Solana Agent Kit**: High-performance blockchain operations
 - **Trusted Execution Environments (TEEs)**: Enterprise-grade security
 
-## Join Our Community
-
-- Telegram: [Link] (Primary platform for beta users)
-- Discord: [Link] (Coming soon)
-- Twitter: [Link]
-- Blog: [Link]
 
 ## Roadmap
 
@@ -209,9 +202,6 @@ If you hold 1M+ $ADAM tokens:
 
 ## Resources
 
-- Documentation: [Link]
-- Tutorials: [Link]
-- Token Info: [Link]
-- Support: [Link]
+- [Documentation:](https://adamofcreation.com)
 
 Welcome to the future of AI creation - let's build something amazing together!
